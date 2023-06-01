@@ -1,2 +1,3 @@
 https://randomnerdtutorials.com/
 https://arduinojson.org
+https://magpi.raspberrypi.com/issues/128/pdf/download
